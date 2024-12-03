@@ -26,12 +26,13 @@ Students will use their own laptop computers during the class.  A recent version
 
 ## Monday
 ```
-  8:00  Introductions [CL]
-  8:30  Lecture - Overview of Groundwater Flow and Governing Equations [JL]
-  9:45  Break
+  9:00  Introductions [CL]
+  9:15  Lecture - Overview of Groundwater Flow and Governing Equations [JL]
  10:00  Lecture - Overview of Finite-Difference Methods [MF]
- 11:30  Lunch
- 12:30  Lecture – MODFLOW Background [CL]
+ 10:30  Break
+ 11:00  Lecture - Overview of Finite-Difference Methods (continuted) [MF]
+ 11:30  Lecture – MODFLOW Background [CL]
+ 12:00  Lunch
   1:00  Lecture – Getting Started with MODFLOW 6 [CL]
   1:45  Break
   2:00  Introduction to Problem 1 – Basic steady-state flow simulation [JH]
@@ -42,60 +43,65 @@ Students will use their own laptop computers during the class.  A recent version
 
 ## Tuesday
 ```
-  8:00  Lecture – Simulation Output [JL]
-  8:30  Lecture – Introduction to pre- and post-processing tools for the class [CL]
-  9:00  Workshop – Problem 1 (continued) [JL]
- 10:00  Discussion – Problem 1 [JH]
- 10:30  Lecture – Matrix Solvers [JH]
- 11:30  Lunch
- 12:30  Lecture – Storage (STO) and Traditional Stress Packages [CL]
-  1:30  Break
+  9:00  Lecture – Simulation Output [JL]
+  9:30  Lecture – Introduction to pre- and post-processing tools for the class [CL]
+  9:45  Workshop – Problem 1 (continued) [JL]
+ 10:15  Discussion – Problem 1 [JH]
+ 10:30  Break
+ 11:00  Lecture – Matrix Solvers [JH]
+ 12:00  Lunch
+  1:00  Lecture – Storage (STO) and Traditional Stress Packages [CL]
   2:00  Introduction to Problem 2 – Stress packages and transient flow [MF]
   2:15  Workshop – Problem 2 [MF]
+  2:30  Break
+  2:45  Workshop – Problem 2 [MF]
   4:30  Adjourn
 ```
 
 ## Wednesday
 ```
-  8:00  Workshop – Problem 2 (continued) [MF]
-  9:00  Discussion - Problem 2 [MF]
-  9:30  Lecture/Workshop – ZoneBudget [CL]
- 10:00  Break
- 10:30  Lecture – Model Calibration [MF]
- 11:30  Lunch
- 12:30  Introduction to the McDonald Valley Calibration Problem [JH]
-  1:00  Workshop – Planning phase [JH]
+  9:00  Workshop – Problem 2 (continued) [MF]
+ 10:15  Discussion - Problem 2 [MF]
+ 10:30  Break
+ 11:00  Lecture/Workshop – ZoneBudget [CL]
+ 11:15  Lecture – Model Calibration [MF]
+ 12:00  Lunch
+  1:00  Introduction to the McDonald Valley Calibration Problem [JH]
+  1:30  Workshop – Planning phase [JH]
   2:00  Discussion – Group plans [JH]
-  2:30  Workshop – Calibration with existing data [JH]
+  2:30  Break
+  2:45  Workshop – Calibration with existing data [JH]
   4:30  Adjourn
 ```
  
 ## Thursday
 ```
-  8:00  Lecture - Field Data Collection Options [CL]
-  8:15  Workshop – Field Data Collection and Calibration Refinement [CL]
- 10:15  Lecture - Model Projection Runs [JL]
- 10:30  Workshop – Generate Model Projections  [JL]
- 11:30  Lunch
- 12:30  Workshop – Generate Model Projections (continued) [JL]
+  9:00  Lecture - Field Data Collection Options [CL]
+  9:15  Workshop – Field Data Collection and Calibration Refinement [CL]
+ 10:00  Lecture - Model Projection Runs [JL]
+ 10:15  Workshop – Generate Model Projections [JL]
+ 10:30  Break
+ 10:45  Workshop – Generate Model Projections (continued) [JL]
+ 12:00  Lunch
+  1:00  Workshop – Generate Model Projections (continued) [JL]
   2:00  Discussion – McDonald Valley Problem [JH]
   2:30  Break
-  3:15  Lecture/Workshop – Parameter Estimation [MF]
+  3:00  Lecture/Workshop – Parameter Estimation [MF]
   4:30  Adjourn
 ```
 
 ## Friday
 ```
-  8:00  Lecture/Workshop – Advanced Packages: SFR/LAK/MAW/UZF/MVR [JH]
- 10:00  Break
- 10:15  Lecture/Workshop – Advanced Topics: Unstructured Grids [CL]
- 10:45  Lecture/Workshop – Advanced Topics: XT3D [CL]
- 11:30  Lunch
- 12:30  Lecture/Workshop – Advanced Topics: Newton Formulation [JH]
-  1:00  Lecture/Workshop – Advanced Topics: Local Grid Refinement [MF]
-  1:30  Lecture – MODPATH Particle Tracking Overview [JL]
-  2:00  Break
-  2:15  Workshop – MODPATH Problem [JL]
+  9:00  Lecture/Workshop – Advanced Packages: SFR/LAK/MAW/UZF/MVR [JH]
+ 10:30  Break
+ 10:45  Lecture/Workshop – Advanced Topics: Unstructured Grids [CL]
+ 11:15  Lecture/Workshop – Advanced Topics: XT3D [CL]
+ 12:00  Lunch
+  1:00  Lecture/Workshop – Advanced Topics: Newton Formulation [JH]
+  1:45  Lecture/Workshop – Advanced Topics: Local Grid Refinement [MF]
+  2:15  Lecture – MODPATH Particle Tracking Overview [JL]
+  2:30  Break
+  2:45  Workshop – MODPATH Problem [JL]
   3:30  Lecture – Groundwater Transport Model [CL]
   3:45  Lecture - Coastal Boundaries and Saltwater Intrusion [CL]
   4:00  Wrap-up
