@@ -37,6 +37,7 @@ dependencies:
   - pyvista
   - vtk
   - imageio
+  - pyemu
   - requests
   - pytest
   - statsmodels
