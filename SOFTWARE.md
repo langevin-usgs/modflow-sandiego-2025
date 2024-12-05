@@ -68,5 +68,5 @@ This command may fail if you are on an internal USGS network.  If you run into p
 
 4.  To test if everything is working correctly, try copying the [MODFLOW 6 Quick Start](https://github.com/modflowpy/flopy#modflow-6-quick-start) FloPy tutorial into a jupyter notebook.  If everything is installed and working correctly, then you should see the image of a 10-by-10 model grid with flow from the upper left to the lower right.
 
-![alt](../images/flopy_results.png)
+![alt](images/flopy_results.png)
 
