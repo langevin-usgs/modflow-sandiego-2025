@@ -4,7 +4,7 @@ To get the most out of this workshop, you will need to come prepared with a lapt
 The following instructions will guide you through the installation process and setup of a modflow environment.
 
 ## Part 1 -- Install Miniforge
-1. Go to the miniforge website and download the installer (https://github.com/conda-forge/miniforge) for your platform.
+1. For USGS participants with a Windows laptop, you may be able to install Miniforge through the Software Center.  This installation approach is preferred.  If that is not an option, then go to the miniforge website and download the installer (https://github.com/conda-forge/miniforge) for your platform.
 
 2. Run the installer program that you downloaded.  On Windows the installer is called `Miniforge3-Windows-x86_64.exe`.
 
