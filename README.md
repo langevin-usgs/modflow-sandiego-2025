@@ -21,6 +21,9 @@ Chemical Science Laboratory Room 422 [(CSL 422)](https://map.concept3d.com/?id=8
 ## Schedule
 The course will start every morning at 9:00 AM and end around 4:30 PM every day.
 
+## Software
+The course will require that attendees bring a laptop computer with the required software installed and tested.  Please see the [Software Installation](./SOFTWARE.md) instructions.
+
 ### Organization
 Students will use their own laptop computers during the class.  A recent version of Windows is required.  Students will be notified about the class agenda, options for hotel accommodations, and specific classroom information at a later date.
 
