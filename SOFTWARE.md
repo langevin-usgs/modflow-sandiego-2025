@@ -4,7 +4,7 @@ To get the most out of this workshop, you will need to come prepared with a lapt
 The following instructions will guide you through the installation process and setup of a modflow environment.
 
 ## Part 1 -- Install Miniforge
-1. Go to the miniforge website and download the installer (https://github.com/conda-forge/miniforge) for your platform.
+1. For USGS participants with a Windows laptop, you may be able to install Miniforge through the Software Center.  This installation approach is preferred.  If that is not an option, then go to the miniforge website and download the installer (https://github.com/conda-forge/miniforge) for your platform.
 
 2. Run the installer program that you downloaded.  On Windows the installer is called `Miniforge3-Windows-x86_64.exe`.
 
@@ -55,18 +55,17 @@ jupyter lab
 $ get-modflow :flopy 
 ```
 
-This command may fail if you are on an internal USGS network.  If you run into problems, try running this command while connected to a public wifi.
+This command may fail with SSL errors if you are on an internal USGS network.  If you run into problems, try running this command while connected to a public wifi.
 
 
 ## Part 4.  Install Other Required Software
 
-1.  USGS Modelviewer for MODFLOW 6 is available for download [here](https://www.usgs.gov/software/model-viewer-program-three-dimensional-visualization-ground-water-model-results) or [here](https://github.com/MODFLOW-USGS/modelviewer-mf6/releases/tag/1.0.0).  Online documentation for the program is available [here](https://modelviewer-mf6.readthedocs.io/en/latest/).
+1.  USGS Modelviewer for MODFLOW 6 is available for download [here](https://www.usgs.gov/software/model-viewer-program-three-dimensional-visualization-ground-water-model-results).  Make sure to get the version for MODFLOW 6.  You can also get it from [here](https://github.com/MODFLOW-USGS/modelviewer-mf6/releases/tag/1.0.0).  Online documentation for the program is available [here](https://modelviewer-mf6.readthedocs.io/en/latest/).
 
-2.  FeatureGridder and HeadViewer are two Windows programs that are used as training tools for the class.  These programs are included in this repository in the software folder.  Neither of these programs have an installer; instead they can be run by double-clicking on the executable program.
+2.  FeatureGridder and HeadViewer are two Windows programs that are used as training tools for the class.  These programs are included as Class Materials (under assets) in [Releases](https://github.com/langevin-usgs/modflow-sandiego-2025/releases).  Neither of these programs have an installer; instead they can be run by double-clicking on the executable program.
 
 3.  MODFLOW 6 and related utilites.  The latest version of MODFLOW 6 can be downloaded from the [USGS MODFLOW 6 website](https://www.usgs.gov/software/modflow-6-usgs-modular-hydrologic-model).  MODFLOW 6 is also available for other operating systems on the [releases tab](https://github.com/MODFLOW-USGS/modflow6/releases) of the MODFLOW 6 GitHub repository.
 
 4.  To test if everything is working correctly, try copying the [MODFLOW 6 Quick Start](https://github.com/modflowpy/flopy#modflow-6-quick-start) FloPy tutorial into a jupyter notebook.  If everything is installed and working correctly, then you should see the image of a 10-by-10 model grid with flow from the upper left to the lower right.
 
-![alt](../images/flopy_results.png)
-
+![alt](images/flopy_results.png)

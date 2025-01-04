@@ -1,4 +1,4 @@
-name: mfandmore2024
+name: modflow
 channels:
   - conda-forge
 dependencies:

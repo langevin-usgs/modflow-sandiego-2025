@@ -21,23 +21,24 @@ Chemical Science Laboratory Room 422 [(CSL 422)](https://map.concept3d.com/?id=8
 ## Schedule
 The course will start every morning at 9:00 AM and end around 4:30 PM every day.
 
+## Software
+The course will require that attendees bring a laptop computer with the required software installed and tested.  Please see the [Software Installation](./SOFTWARE.md) instructions.
+
 ### Organization
 Students will use their own laptop computers during the class.  A recent version of Windows is required.  Students will be notified about the class agenda, options for hotel accommodations, and specific classroom information at a later date.
 
 ## Monday
 ```
   9:00  Introductions [CL]
-  9:15  Lecture - Overview of Groundwater Flow and Governing Equations [JL]
- 10:00  Lecture - Overview of Finite-Difference Methods [MF]
+  9:30  Workshop - FloPy Demo [JH]
  10:30  Break
- 11:00  Lecture - Overview of Finite-Difference Methods (continuted) [MF]
- 11:30  Lecture – MODFLOW Background [CL]
+ 10:45  Lecture - Overview of Groundwater Flow and Governing Equations [JL]
+ 11:15  Lecture - Overview of Finite-Difference Methods [MF]
  12:00  Lunch
-  1:00  Lecture – Getting Started with MODFLOW 6 [CL]
-  1:45  Break
+  1:00  Lecture – MODFLOW Background and Getting Started [CL]
   2:00  Introduction to Problem 1 – Basic steady-state flow simulation [JH]
-  2:15  Workshop – Building the MODFLOW data files for Problem 1 [JH]
-  4:00  FloPy Demo – Problem 1 [JH]
+  2:30  Break
+  2:45  Workshop – Building the MODFLOW data files for Problem 1 [JH]
   4:30  Adjourn
 ```
 
@@ -45,10 +46,10 @@ Students will use their own laptop computers during the class.  A recent version
 ```
   9:00  Lecture – Simulation Output [JL]
   9:30  Lecture – Introduction to pre- and post-processing tools for the class [CL]
-  9:45  Workshop – Problem 1 (continued) [JL]
+  9:45  Workshop – Using FloPy for Problem 1 [JH]
  10:15  Discussion – Problem 1 [JH]
  10:30  Break
- 11:00  Lecture – Matrix Solvers [JH]
+ 11:00  Lecture – Newton-Raphson and Matrix Solvers [JH]
  12:00  Lunch
   1:00  Lecture – Storage (STO) and Traditional Stress Packages [CL]
   2:00  Introduction to Problem 2 – Stress packages and transient flow [MF]
@@ -78,32 +79,33 @@ Students will use their own laptop computers during the class.  A recent version
 ```
   9:00  Lecture - Field Data Collection Options [CL]
   9:15  Workshop – Field Data Collection and Calibration Refinement [CL]
- 10:00  Lecture - Model Projection Runs [JL]
- 10:15  Workshop – Generate Model Projections [JL]
  10:30  Break
- 10:45  Workshop – Generate Model Projections (continued) [JL]
+ 10:45  Workshop – Field Data Collection and Calibration Refinement (continued) [CL]
  12:00  Lunch
-  1:00  Workshop – Generate Model Projections (continued) [JL]
-  2:00  Discussion – McDonald Valley Problem [JH]
+  1:00  Lecture - Model Projection Runs [JL]
+  1:15  Workshop – Generate Model Projections [JL]
   2:30  Break
-  3:00  Lecture/Workshop – Parameter Estimation [MF]
+  3:00  Workshop – Generate Model Projections (continued) [JL]
   4:30  Adjourn
 ```
 
 ## Friday
 ```
-  9:00  Lecture/Workshop – Advanced Packages: SFR/LAK/MAW/UZF/MVR [JH]
+  9:00  Workshop – Generate Model Projections (continued) [JL]
+ 10:00  Discussion – McDonald Valley Problem [JH]
  10:30  Break
- 10:45  Lecture/Workshop – Advanced Topics: Unstructured Grids [CL]
- 11:15  Lecture/Workshop – Advanced Topics: XT3D [CL]
+ 11:00  Lecture/Workshop – Parameter Estimation [MF]
  12:00  Lunch
-  1:00  Lecture/Workshop – Advanced Topics: Newton Formulation [JH]
-  1:45  Lecture/Workshop – Advanced Topics: Local Grid Refinement [MF]
-  2:15  Lecture – MODPATH Particle Tracking Overview [JL]
-  2:30  Break
-  2:45  Workshop – MODPATH Problem [JL]
-  3:30  Lecture – Groundwater Transport Model [CL]
-  3:45  Lecture - Coastal Boundaries and Saltwater Intrusion [CL]
+  1:00  Special Topics
+          - More parameter estimation and uncertainty analysis
+          - Advanced packages (MAW, LAK, SFR, UZF, MVR)
+          - Unstructured grids
+          - XT3D
+          - Local grid refinement
+          - Particle tracking
+          - Solute transport
+          - Heat transport
+          - Saltwater intrusion
   4:00  Wrap-up
   4:30  Adjourn
 ```
