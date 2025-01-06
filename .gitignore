@@ -17,3 +17,7 @@ __pycache__/
 *.grb
 
 RunRequests/
+
+exercises/PS1_flopy/PS1*/
+temp/
+lectures/
