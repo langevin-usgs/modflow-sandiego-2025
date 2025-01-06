@@ -27,6 +27,38 @@ The course will require that attendees bring a laptop computer with the required
 ### Organization
 Students will use their own laptop computers during the class.  A recent version of Windows is required.  Students will be notified about the class agenda, options for hotel accommodations, and specific classroom information at a later date.
 
+The following is the revised three-day class agenda.
+
+## Monday (revised)
+```
+Introductions [CL]
+Groundwater Flow Equation [JL]
+Finite Difference [MF]
+MODFLOW Background and Fundamentals [CL]
+Problem 1 [JH]
+Viewing Output [CL]
+```
+
+## Tuesday (revised)
+```
+Newton-Raphson and Matrix Solvers [JH]
+Transient Flow and Traditional Stress Packages [CL]
+Problem 2 [MF]
+Introduction to the McDonald Valley Problem [JH]
+McDonald Valley Planning [JH]
+```
+
+## Wednesday (revised)
+```
+McDonald Valley Calibration [JH]
+McDonald Valley Field Data Collection [CL]
+McDonald Valley Projections [JL]
+Parameter Estimation and Uncertainty Analysis [MF]
+Special Topics [all]
+```
+
+The following is the original agenda, which was modified due to a shortening of the class from 5 days to 3 days.
+
 ## Monday
 ```
   9:00  Introductions [CL]
