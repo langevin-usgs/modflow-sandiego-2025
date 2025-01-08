@@ -1,0 +1,45 @@
+BEGIN OPTIONS
+  PRINT_INPUT
+END OPTIONS
+
+BEGIN CONTINUOUS FILEOUT mv.gwf.wt.csv
+# obsname    obstype  ID
+  WT1        HEAD     1  3 18
+  WT2        HEAD     1  4 11
+  WT3        HEAD     1  7 21
+  WT4        HEAD     1 13 23
+  WT5        HEAD     1 15 12
+  WT6        HEAD     1 17 19
+  WT7        HEAD     1 18  2
+  WT8        HEAD     1 19  7
+  WT9        HEAD     1 20 12
+  WT10       HEAD     1 19 23
+  WT11       HEAD     1 27  6
+  WT12       HEAD     1 28 12
+  WT13       HEAD     1 29 24
+  WT14       HEAD     1 31  7
+  WT15       HEAD     1 34 15
+  WT16       HEAD     1 37  2
+  WT17       HEAD     1 38 23
+END CONTINUOUS
+
+BEGIN CONTINUOUS FILEOUT mv.gwf.aq.csv
+# obsname    obstype  ID
+  AQ1        HEAD     5  3 18
+  AQ2        HEAD     5  4 11
+  AQ3        HEAD     5  7 21
+  AQ4        HEAD     5 13 23
+  AQ5        HEAD     5 15 12
+  AQ6        HEAD     5 17 19
+  AQ7        HEAD     5 18  2
+  AQ8        HEAD     5 19  7
+  AQ9        HEAD     5 20 12
+  AQ10       HEAD     5 19 23
+  AQ11       HEAD     5 27  6
+  AQ12       HEAD     5 28 12
+  AQ13       HEAD     5 29 24
+  AQ14       HEAD     5 31  7
+  AQ15       HEAD     5 34 15
+  AQ16       HEAD     5 37  2
+  AQ17       HEAD     5 38 23
+END CONTINUOUS
