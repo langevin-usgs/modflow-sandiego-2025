@@ -19,5 +19,6 @@ __pycache__/
 RunRequests/
 
 exercises/PS1_flopy/PS1*/
+exercises/PS1/PS1*/
 temp/
 lectures/
